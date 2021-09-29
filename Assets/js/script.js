@@ -1,4 +1,3 @@
-
 var currentDay = moment().format("dddd MMMM Do, YYYY");
 $("#currentDay").text(currentDay);
 
@@ -298,15 +297,3 @@ var localStore5 = {
 $(saveBtn5).click(function() {
     localStore5.saveLocalStorage();
 });
-
-console.log(localStore8);
-console.log(localStore9);
-console.log(localStore10);
-console.log(localStore11);
-console.log(localStore12);
-console.log(localStore1);
-console.log(localStore2);
-console.log(localStore3);
-console.log(localStore4);
-console.log(localStore5);
-
