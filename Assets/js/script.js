@@ -36,6 +36,8 @@ $("#4pm").text(sixteen);
 var seventeen = moment().hour(17).format("hA");
 $("#5pm").text(seventeen);
 
+
+
 function get8AMColor() {
     if (eightAM < currentHour) {
         $(".8am").addClass("past");
