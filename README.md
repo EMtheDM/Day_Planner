@@ -2,7 +2,7 @@
 ## Description
 Created a day planner that allows users to add events to each hour of the business day. Planner also shows if hour is in the past, present or future by color.
 
-
+Go to: https://emthedm.github.io/Day_Planner/
 ## Usage    
 ![screenshot](/assets/images/screenshot.gif)
 ## License
