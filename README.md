@@ -1,16 +1,10 @@
 # Day_Planner
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Created a day planner that allows users to add events to each hour of the business day. Planner also shows if hour is in the past, present or future by color.
+
+
+## Usage    
+![screenshot](/assets/images/screenshot.gif)
 ## License
 MIT License
 
